@@ -22,7 +22,7 @@ I’m learning and currently working with:
 
 ## 📈 GitHub Contribution Graph
 
-![Metrics](https://metrics.lecoq.io/sthtsay?template=classic&config.timezone=Asia%2FKolkata)
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=sthtsay)
 
 ## 📫 Get in Touch
 

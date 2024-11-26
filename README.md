@@ -1,50 +1,46 @@
 # 👋 Hi, I'm Yohannes!
 
-Welcome to my GitHub profile! I'm a passionate IT expert and junior mobile app tester with a strong foundation in technology. My journey into the tech world started at a young age, and I have been driven by the rapid advancements in the field ever since.
+## 💫 About Me
+Innovative IT expert and Mobile App Tester with a Computer Science background from Bonga University. Currently crafting quality mobile experiences at Forward Logistics Technologies.
 
-## 🚀 About Me
+## 🚀 Professional Journey
+- 📱 **Mobile Application Tester** at Forward Logistics Technologies
+- 💻 Former **IT Officer** at Ethiopian Overseas Employment Agencies Federation
+- 🎓 **Computer Science** graduate from Bonga University
+- 📊 **Google IT Support Professional** certified
 
-- 🎓 I studied **Computer Science** at Bonga University, where I gained a solid base in IT support and troubleshooting.
-- 🌱 I’m currently focused on improving my skills in **mobile app testing** and expanding my knowledge in software development, especially mobile technologies.
-- 💼 I work as a **Mobile Application Tester** at **Forward Logistics Technologies**, where I contribute to ensuring high-quality, user-friendly mobile apps.
-- 🔧 I also have experience in **IT support** and **troubleshooting**, and have completed certifications such as the **Google IT Support Professional Program** to enhance my technical skills.
-- 🧑‍💻 I’m passionate about self-learning and always eager to take on new challenges to grow my career.
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## ⚡ Technologies & Tools
+## 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-I’m learning and currently working with:
+## ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-- **Languages**: Python, JavaScript (beginner)
-- **Mobile App Testing**: Manual testing, bug tracking, and test case design
-- **Web Development**: HTML5, CSS3, basic JavaScript
-- **Tools**: Git, Postman, Android Studio, Xcode, Jira
-- **Cloud**: Google Cloud, AWS (beginner)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthtsay&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sthtsay&theme=radical)
 
-## 📈 GitHub Contribution Graph
+## 🎯 Current Focus
+- Advancing mobile app testing expertise
+- Expanding cloud computing knowledge
+- Building automation testing skills
+- Contributing to open-source projects
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthtsay&show_icons=true&count_private=true&hide=prs&theme=radical)
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannesmesfin)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mesfiny711@gmail.com)
 
-## 📫 Get in Touch
-
-Feel free to connect with me! Here’s how you can reach me:
-
-- **Email**: [mesfiny711@gmail.com](mailto:mesfiny711@gmail.com)
-- **LinkedIn**: [Yohannes Mesfin](https://www.linkedin.com/in/yohannesmesfin)
-
-## 📝 My Story
-
-I am Yohannes, an IT expert with a true love for technology. From a young age, I was fascinated by how computers and software evolve. This curiosity led me to study **Computer Science** at **Bonga University**, where I developed a strong foundation in IT support and troubleshooting.
-
-Despite my university not teaching programming languages like Python, my enthusiasm for tech motivated me to teach myself and pursue online certifications. One of the key programs I completed was the **Google IT Support Professional Program**, which deepened my technical knowledge and fueled my passion for the constantly evolving tech industry.
-
-My diverse skill set helped me secure a role as an **IT Officer** at the **Ethiopian Overseas Employment Agencies Federation**, where I applied my knowledge to troubleshoot and ensure smooth IT operations. But, it was when I discovered mobile app testing that I found my true calling.
-
-I transitioned into a **Mobile Application Tester** role at **Forward Logistics Technologies**, where I apply critical thinking and attention to detail to improve mobile app quality. Even though I’ve only been in this field for a month, my excitement for mobile technology continues to grow.
-
-In my free time, I stay up to date with the latest tech trends and actively seek new educational opportunities to further expand my skills.
-
----
-
+## 💭 Favorite Quote
 > "Technology is best when it brings people together." — Matt Mullenweg
 
-Thanks for visiting my GitHub profile! I’m always open to learning new things, sharing knowledge, and connecting with others. Let’s grow together! 😊
+Looking forward to connecting with fellow tech enthusiasts and creating amazing solutions together! 🚀

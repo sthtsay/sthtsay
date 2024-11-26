@@ -20,9 +20,9 @@ I’m learning and currently working with:
 - **Tools**: Git, Postman, Android Studio, Xcode, Jira
 - **Cloud**: Google Cloud, AWS (beginner)
 
-## 📈 GitHub Stats
+## 📈 GitHub Contribution Graph
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthtsay&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Contribution Graph](https://github-contribution-graph.herokuapp.com/graph?username=sthtsay)
 
 ## 📫 Get in Touch
 

@@ -22,7 +22,7 @@ I’m learning and currently working with:
 
 ## 📈 GitHub Contribution Graph
 
-![Your GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=sthtsay)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthtsay&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 📫 Get in Touch
 

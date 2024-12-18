@@ -14,7 +14,7 @@ My journey in tech has involved everything from managing IT support systems to l
 
 ## Academics
 
-- **BTech in Computer Science** from [Bonga University](https://www.bongauniversity.edu.et)  
+- **BTech in Computer Science** from [Bonga University](https://www.bongau.edu.et)  
 - **GPA**: [3.56]
 
 ---

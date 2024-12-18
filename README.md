@@ -18,7 +18,7 @@ My focus is on delivering **high-quality tech solutions** and ensuring an **exce
 ## 🎓 Academics
 
 ![University Badge](https://img.shields.io/badge/University-Bonga_University-1877F2?style=for-the-badge)  
-- **BTech in Computer Science**  
+- **BSc in Computer Science**  
 - **GPA**: `[3.56]`  
 - **Graduation Year**: `[2023]`
 
@@ -76,7 +76,7 @@ Feel free to connect with me on any of the following platforms:
 
 - **LinkedIn**: [Yohannes LinkedIn](https://www.linkedin.com/in/yohannesmesfin)  
 - **GitHub**: [sthtsay](https://github.com/sthtsay)  
-- **Email**: [your.email@example.com](mesfiny711@gmail.com)  
+- **Email**: [Yohannes Email](mesfiny711@gmail.com)  
 
 ---
 

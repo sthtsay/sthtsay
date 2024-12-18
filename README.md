@@ -1,54 +1,11 @@
-🚀 Yohannes' Profile
-✨ Innovative IT Expert and Mobile App Tester with a Computer Science background from Bonga University. Currently crafting high-quality mobile experiences at Forward Logistics Technologies.
-
-📍 Professional Journey
-<details> <summary>🔍 Click to Reveal</summary> - **Mobile Application Tester** at Forward Logistics Technologies - **Former IT Officer** at Ethiopian Overseas Employment Agencies Federation - **Computer Science** graduate from Bonga University - **Google IT Support Professional** certified </details>
-🛠 Tech Stack
-<details> <summary>💻 Click to Reveal</summary> - **Languages**: Python, JavaScript, HTML5, CSS3 - **Frameworks/Tools**: React, Node.js, Express.js </details>
-🧰 Tools & Platforms
-<details> <summary>🔧 Click to Reveal</summary> - **Git**, **Postman**, **Android Studio**, **Xcode**, **Jira** </details>
-☁️ Cloud Platforms
-<details> <summary>🌐 Click to Reveal</summary> - **AWS**, **Google Cloud** </details>
-🎯 Current Focus
-<details> <summary>📈 Click to Reveal</summary> Advancing mobile app testing expertise, expanding cloud computing knowledge, building automation testing skills, and contributing to **open-source** projects. </details>
-💬 Favorite Quote
-<details> <summary>📜 Click to Reveal</summary> "Technology is best when it brings people together." — **Matt Mullenweg** </details>
-🌱 Connect with Me
-LinkedIn: Yohannes' LinkedIn
-GitHub: Yohannes' GitHub
-Email: yohannes@example.com
-🌟 About Me
-<details> <summary>👤 Click to Reveal</summary> A passionate IT expert and Mobile App Tester with extensive experience in testing and developing quality mobile applications. I'm continuously learning and growing in the fields of cloud computing and automation. </details>
-🚀 Projects
-Project 1: Description of your first project.
-Project 2: Description of your second project.
-💡 Fun Facts
-💼 I have a deep interest in mobile app quality assurance and automation testing.
-🌍 I’m always looking to collaborate on exciting tech challenges.
-📖 I enjoy contributing to open-source projects and enhancing my skills.
-🏆 Certifications
-Google IT Support Professional
-AWS Certified Solutions Architect – Associate
-React Native Certification
-Jira Software Administrator Certification
-📚 Skills Overview
-Languages:
-
-Python | JavaScript | HTML5 | CSS3
-Tools:
-
-Git | Android Studio | Xcode | Postman | Jira
-Cloud Platforms:
-
-AWS | Google Cloud
-Testing Tools:
-
-Appium | Selenium | Postman
-🔥 Let's Build Something Great!
-I'm always open to new collaborations. Feel free to reach out to me!
-
-💬 Quick Summary
-Name: Yohannes Mesfin
-Current Role: Mobile App Tester at Forward Logistics Technologies
-Location: Ethiopia
-📆 Last Updated: December 2024
+<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  Fullstack Developer
+  <a href="https://[your-portfolio-link]">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</h2>
+<div align="center">
+ <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+</div>

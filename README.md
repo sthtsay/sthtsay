@@ -33,15 +33,15 @@
 
 <h3 align="left">💼 My Experience</h3>
 
-- **IT Officer** at Ethiopian Overseas Employment Agencies Federation | [Year] - [Year]  
+- **IT Officer** at Ethiopian Overseas Employment Agencies Federation | [2023] - [2024]  
   - Led IT services to ensure optimal system performance and efficient operations.  
   - Managed and maintained university computer systems to ensure seamless IT support.
 
-- **Mobile Application Tester** at Forward Logistics Technologies | [Year] - [Year]  
+- **Mobile Application Tester** at Forward Logistics Technologies | [2024] - [2024]  
   - Led the testing team for mobile applications, ensuring smooth and user-friendly app experiences.  
   - Identified and addressed issues to meet high-quality standards, despite limited initial experience in the field.
 
-- **Quality Assurance Professional** at [Current Company] | [Year] - Present  
+- **Quality Assurance Professional** at [Current Company] | [2024] - Present  
   - Applied critical thinking and attention to detail to improve app quality.  
   - Thrives in fast-paced environments, collaborating with experienced teams to drive innovation.
 
@@ -72,7 +72,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/sthtsay/sthtsay/output/snake.svg" alt="Snake animation" />
 
 ###

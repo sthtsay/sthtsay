@@ -1,75 +1,61 @@
-<h1 align="center">Hi <img src="https://github.com/sthtsay/sthtsay/blob/main/icons/Hi.gif" width="28px"/> I'm Yohannes</h1>
+# Hi, I'm Yohannes 👋
 
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=sthtsay&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;"> 
-  Fullstack Developer
-  <a href="https://[your-portfolio-link]">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
+![Profile Views](https://komarev.com/ghpvc/?username=sthtsay&color=dc143c&style=for-the-badge)  
+**Fullstack Developer**  
+[Check out my Portfolio](https://[your-portfolio-link])
 
-<div align="center">
-  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
-</div>
+## About Me
 
-<details>
-  <summary>
-    <h2> 
-      <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/about.png" width="37" /> 
-      Resume
-    </h2>
-  </summary>
+I’m an IT expert with a lifelong passion for technology. From a young age, I was fascinated by the rapid growth of computers and software, which led me to pursue a degree in Computer Science from **Bonga University**. Since then, I’ve gained hands-on experience working as an IT Officer, Mobile Application Tester, and now as a Quality Assurance Professional.
 
-  <details>
-    <summary><h4> <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-    <div align="center">
-      <span><img src="https://img.shields.io/badge/BTECH-Bonga_University-1877F2?style=for-the-badge"></span>
-      <span><img src="https://img.shields.io/badge/GPA-3.56-EFEEE9?style=for-the-badge"></span>
-    </div>
-  </details>
+My journey in tech has involved everything from managing IT support systems to leading mobile application testing teams. I’m particularly interested in improving user experiences and ensuring that technology meets high-quality standards. Outside of work, I constantly stay updated on the latest trends in technology and continue learning through online courses and certifications.
 
-  <details>
-  <summary><h4> <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+---
 
-  - **Mobile Application Tester** at Forward Logistics Technologies | [Year] - [Year]  
-    - Led the testing team for mobile applications, ensuring smooth and user-friendly app experiences.
-    - Identified and addressed issues to meet high-quality standards, despite limited initial experience in the field.
+## Academics
 
-  - **Quality Assurance Professional** at [Current Company] | [Year] - Present  
-    - Applied critical thinking and attention to detail to improve app quality.
-    - Thrives in fast-paced environments, collaborating with experienced teams to drive innovation.
+- **BTech in Computer Science** from [Bonga University](https://www.bongauniversity.edu.et)  
+- **GPA**: [3.56]
 
-</details>
+---
 
-  <details>
-    <summary><h4> <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/skills.gif" width="29"/> Skills</h4></summary>
-    <ul>
-      <li>IT Support & Troubleshooting</li>
-      <li>Mobile Application Testing</li>
-      <li>Quality Assurance</li>
-      <li>Leadership & Team Management</li>
-      <li>Self-taught Python Programming</li>
-      <li>Google IT Support Professional Certification</li>
-    </ul>
-  </details>
+## Experience
 
-  <details>
-    <summary><h4> <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/interests.gif" width="29"/> Interests</h4></summary>
-    <ul>
-      <li>Passion for staying updated with the latest technology trends.</li>
-      <li>Continuous self-learning through online courses and certifications.</li>
-      <li>Building positive relationships and fostering collaborative work environments.</li>
-    </ul>
-  </details>
+### Mobile Application Tester at **Forward Logistics Technologies**  
+*Duration: [2023] - [2024]*  
+- Led the testing team for mobile applications, ensuring smooth and user-friendly app experiences.
+- Identified and resolved issues to meet high-quality standards, despite limited initial experience.
 
-</details>
+### Quality Assurance Professional at **[Current Company]**  
+*Duration: [2024] - Present*  
+- Applied critical thinking and attention to detail to enhance app quality.
+- Thrived in fast-paced environments, collaborating with experienced teams to drive innovation.
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:mesfiny711@gmail.com">
-      <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
-</details>
+---
+
+## Skills
+
+- IT Support & Troubleshooting
+- Mobile Application Testing
+- Quality Assurance
+- Leadership & Team Management
+- Self-taught Python Programming
+- Google IT Support Professional Certification
+
+---
+
+## Interests
+
+- Passion for staying updated with the latest technology trends.
+- Continuous self-learning through online courses and certifications.
+- Building positive relationships and fostering collaborative work environments.
+
+---
+
+## Let's Connect
+
+Feel free to reach out to me through any of the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/yohannesmesfin)
+- [GitHub](https://github.com/sthtsay)
+

@@ -29,23 +29,17 @@
   </details>
 
   <details>
-    <summary><h4> <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-    <ul>
-      <li><strong>Mobile Application Tester</strong> at Forward Logistics Technologies | [Year] - [Year]  
-        <ul>
-          <li>Led the testing team for mobile applications, ensuring smooth and user-friendly app experiences.</li>
-          <li>Identified and addressed issues to meet high-quality standards, despite limited initial experience in the field.</li>
-        </ul>
-      </li>
-      
-      <li><strong>Quality Assurance Professional</strong> at [Current Company] | [Year] - Present  
-        <ul>
-          <li>Applied critical thinking and attention to detail to improve app quality.</li>
-          <li>Thrives in fast-paced environments, collaborating with experienced teams to drive innovation.</li>
-        </ul>
-      </li>
-    </ul>
-  </details>
+  <summary><h4> <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+
+  - **Mobile Application Tester** at Forward Logistics Technologies | [Year] - [Year]  
+    - Led the testing team for mobile applications, ensuring smooth and user-friendly app experiences.
+    - Identified and addressed issues to meet high-quality standards, despite limited initial experience in the field.
+
+  - **Quality Assurance Professional** at [Current Company] | [Year] - Present  
+    - Applied critical thinking and attention to detail to improve app quality.
+    - Thrives in fast-paced environments, collaborating with experienced teams to drive innovation.
+
+</details>
 
   <details>
     <summary><h4> <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/skills.gif" width="29"/> Skills</h4></summary>

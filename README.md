@@ -1,61 +1,99 @@
-# Hi, I'm Yohannes 👋
+# Hi, I'm **Yohannes** 👋  
+### Fullstack Developer | Mobile App Enthusiast | IT Expert  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sthtsay&color=dc143c&style=for-the-badge)  
-**Fullstack Developer**  
-[Check out my Portfolio](https://[your-portfolio-link])
-
-## About Me
-
-I’m an IT expert with a lifelong passion for technology. From a young age, I was fascinated by the rapid growth of computers and software, which led me to pursue a degree in Computer Science from **Bonga University**. Since then, I’ve gained hands-on experience working as an IT Officer, Mobile Application Tester, and now as a Quality Assurance Professional.
-
-My journey in tech has involved everything from managing IT support systems to leading mobile application testing teams. I’m particularly interested in improving user experiences and ensuring that technology meets high-quality standards. Outside of work, I constantly stay updated on the latest trends in technology and continue learning through online courses and certifications.
+![Followers](https://img.shields.io/github/followers/sthtsay?style=social)  
+[Check out my Portfolio](https://[your-portfolio-link]) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
-## Academics
+## 🚀 About Me
 
-- **BTech in Computer Science** from [Bonga University](https://www.bongau.edu.et)  
-- **GPA**: [3.56]
+I am a **passionate IT expert** and **Fullstack Developer** with a lifelong enthusiasm for **technology**. From a young age, I was captivated by the growing world of **computers** and **software**, prompting me to pursue a degree in **Computer Science** at **Bonga University**. Over the years, I’ve gained valuable experience in roles ranging from IT support to mobile app testing, and currently, I work as a **Quality Assurance Professional**.
 
----
-
-## Experience
-
-### Mobile Application Tester at **Forward Logistics Technologies**  
-*Duration: [2023] - [2024]*  
-- Led the testing team for mobile applications, ensuring smooth and user-friendly app experiences.
-- Identified and resolved issues to meet high-quality standards, despite limited initial experience.
-
-### Quality Assurance Professional at **[Current Company]**  
-*Duration: [2024] - Present*  
-- Applied critical thinking and attention to detail to enhance app quality.
-- Thrived in fast-paced environments, collaborating with experienced teams to drive innovation.
+My focus is on delivering **high-quality tech solutions** and ensuring an **exceptional user experience**. With a commitment to **continuous learning**, I stay ahead of the curve by exploring the latest technologies, tools, and trends.
 
 ---
 
-## Skills
+## 🎓 Academics
 
-- IT Support & Troubleshooting
-- Mobile Application Testing
-- Quality Assurance
-- Leadership & Team Management
-- Self-taught Python Programming
-- Google IT Support Professional Certification
+![University Badge](https://img.shields.io/badge/University-Bonga_University-1877F2?style=for-the-badge)  
+- **BTech in Computer Science**  
+- **GPA**: `[YourGPA]`  
+- **Graduation Year**: `[Year]`
 
 ---
 
-## Interests
+## 💼 Experience
 
-- Passion for staying updated with the latest technology trends.
-- Continuous self-learning through online courses and certifications.
-- Building positive relationships and fostering collaborative work environments.
+### **Mobile Application Tester** at **Forward Logistics Technologies**  
+*Duration: [Year] - [Year]*  
+🔹 **Led** the mobile app testing team to ensure a seamless and **user-friendly experience**.  
+🔹 **Identified** and **resolved** issues to maintain **high-quality standards**.  
+🔹 **Collaborated** with the development team to improve app features.
+
+### **Quality Assurance Professional** at **[Current Company]**  
+*Duration: [Year] - Present*  
+🔹 Applied **critical thinking** to improve app quality and performance.  
+🔹 Thrived in **fast-paced environments**, working alongside cross-functional teams to implement innovative solutions.  
+🔹 Delivered consistent **bug-free** app releases, improving user experience and satisfaction.
 
 ---
 
-## Let's Connect
+## 🛠 Skills & Technologies
 
-Feel free to reach out to me through any of the following platforms:
+![Skills Badge](https://img.shields.io/badge/Skills-IT%20Support%20%7C%20Mobile%20App%20Testing%20%7C%20QA-blueviolet?style=for-the-badge)
 
-- [LinkedIn](https://www.linkedin.com/in/yohannesmesfin)
-- [GitHub](https://github.com/sthtsay)
+- **Programming & Scripting**: Python (self-taught), JavaScript, HTML, CSS  
+- **Mobile App Testing**: Functional Testing, Usability Testing, Performance Testing  
+- **Tools**: Selenium, JIRA, Postman, Android Studio, Xcode  
+- **Quality Assurance**: Test Automation, Bug Tracking, Test Case Management  
+- **IT Support**: Troubleshooting, Network Administration, Systems Management  
+- **Certifications**: 
+  - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)  
+  - [Other Certifications]
 
+---
+
+## 🌱 Interests
+
+- **Tech Trends**: Passionate about **mobile technology** and **software testing**.  
+- **Continuous Learning**: Always upgrading my skills through **online courses** and **certifications**.  
+- **Team Collaboration**: Enjoy building relationships and working with teams that innovate and create high-quality products.  
+- **Personal Growth**: I believe in the power of **self-improvement** through both professional experience and continuous learning.
+
+---
+
+## 🔗 Let's Connect!
+
+Feel free to connect with me on any of the following platforms:
+
+- **LinkedIn**: [Yohannes LinkedIn](https://www.linkedin.com/in/yohannesmesfin)  
+- **GitHub**: [sthtsay](https://github.com/sthtsay)  
+- **Email**: [your.email@example.com](mesfiny711@gmail.com)  
+
+---
+
+## 🔥 Portfolio
+
+For a deeper dive into my work, be sure to visit my **Portfolio**:  
+[My Portfolio](https://[your-portfolio-link])
+
+---
+
+## 💡 Fun Facts
+
+- 🌍 I have worked in **multiple industries**, providing me with a well-rounded skill set.  
+- 📚 I love to **read** and stay updated on new technologies and trends in the industry.  
+- 💡 I am a firm believer in using **technology to drive positive change** and make a meaningful impact.
+
+---
+
+## 🌟 Tech GIFs
+
+Here's a fun tech-related GIF to brighten your day! 😎  
+![Tech GIF](https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+
+---
+
+> "Technology is best when it brings people together." - Matt Mullenweg

@@ -63,3 +63,13 @@
   </details>
 
 </details>
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:mesfiny711@gmail.com">
+      <img align="center" src="https://github.com/sthtsay/sthtsay/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>

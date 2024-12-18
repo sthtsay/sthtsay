@@ -26,6 +26,13 @@ My focus is on delivering **high-quality tech solutions** and ensuring an **exce
 
 ## 💼 Experience
 
+### **IT Officer** at **Ethiopian Overseas Employment Agencies Federation**  
+*Duration: [Year] - [Year]*  
+🔹 Managed and optimized the company’s IT systems to ensure smooth operations.  
+🔹 Provided technical support and troubleshooting for hardware and software issues.  
+🔹 Implemented strategies to improve the **efficiency** and **reliability** of the IT infrastructure.  
+🔹 **Led** the IT department, working with cross-functional teams to address any tech-related challenges.
+
 ### **Mobile Application Tester** at **Forward Logistics Technologies**  
 *Duration: [Year] - [Year]*  
 🔹 **Led** the mobile app testing team to ensure a seamless and **user-friendly experience**.  
@@ -68,9 +75,10 @@ My focus is on delivering **high-quality tech solutions** and ensuring an **exce
 
 Feel free to connect with me on any of the following platforms:
 
-- **LinkedIn**: [Yohannes LinkedIn](https://www.linkedin.com/in/yohannesmesfin)  
+- **LinkedIn**: [Yohannes LinkedIn](https://www.linkedin.com/in/[Your-LinkedIn-Username])  
+- **Twitter**: [@YourUsername](https://twitter.com/[Your-Twitter-Username])  
 - **GitHub**: [sthtsay](https://github.com/sthtsay)  
-- **Email**: [your.email@example.com](mesfiny711@gmail.com)  
+- **Email**: [your.email@example.com](mailto:your.email@example.com)  
 
 ---
 

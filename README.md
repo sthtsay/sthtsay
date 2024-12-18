@@ -19,28 +19,28 @@ My focus is on delivering **high-quality tech solutions** and ensuring an **exce
 
 ![University Badge](https://img.shields.io/badge/University-Bonga_University-1877F2?style=for-the-badge)  
 - **BTech in Computer Science**  
-- **GPA**: `[YourGPA]`  
-- **Graduation Year**: `[Year]`
+- **GPA**: `[3.56]`  
+- **Graduation Year**: `[2023]`
 
 ---
 
 ## 💼 Experience
 
 ### **IT Officer** at **Ethiopian Overseas Employment Agencies Federation**  
-*Duration: [Year] - [Year]*  
+*Duration: [2023] - [2024]*  
 🔹 Managed and optimized the company’s IT systems to ensure smooth operations.  
 🔹 Provided technical support and troubleshooting for hardware and software issues.  
 🔹 Implemented strategies to improve the **efficiency** and **reliability** of the IT infrastructure.  
 🔹 **Led** the IT department, working with cross-functional teams to address any tech-related challenges.
 
 ### **Mobile Application Tester** at **Forward Logistics Technologies**  
-*Duration: [Year] - [Year]*  
+*Duration: [2023] - [2024]*  
 🔹 **Led** the mobile app testing team to ensure a seamless and **user-friendly experience**.  
 🔹 **Identified** and **resolved** issues to maintain **high-quality standards**.  
 🔹 **Collaborated** with the development team to improve app features.
 
 ### **Quality Assurance Professional** at **[Current Company]**  
-*Duration: [Year] - Present*  
+*Duration: [2024] - Present*  
 🔹 Applied **critical thinking** to improve app quality and performance.  
 🔹 Thrived in **fast-paced environments**, working alongside cross-functional teams to implement innovative solutions.  
 🔹 Delivered consistent **bug-free** app releases, improving user experience and satisfaction.
@@ -58,7 +58,6 @@ My focus is on delivering **high-quality tech solutions** and ensuring an **exce
 - **IT Support**: Troubleshooting, Network Administration, Systems Management  
 - **Certifications**: 
   - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)  
-  - [Other Certifications]
 
 ---
 
@@ -75,10 +74,9 @@ My focus is on delivering **high-quality tech solutions** and ensuring an **exce
 
 Feel free to connect with me on any of the following platforms:
 
-- **LinkedIn**: [Yohannes LinkedIn](https://www.linkedin.com/in/[Your-LinkedIn-Username])  
-- **Twitter**: [@YourUsername](https://twitter.com/[Your-Twitter-Username])  
+- **LinkedIn**: [Yohannes LinkedIn](https://www.linkedin.com/in/yohannesmesfin)  
 - **GitHub**: [sthtsay](https://github.com/sthtsay)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **Email**: [your.email@example.com](mesfiny711@gmail.com)  
 
 ---
 

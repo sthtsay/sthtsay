@@ -17,7 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sthtsay&theme=dracula&hide_border=true" alt="Streak Stats" />
   
   <!-- Dynamic Commit Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sthtsay&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sthtsay&theme=dracula" alt="Activity Graph" />
 </div>
 
 ###

@@ -1,10 +1,5 @@
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sthtsay&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthtsay&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
-
+  
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sthtsay&theme=dracula" alt="GitHub Activity Graph" />
 </div>

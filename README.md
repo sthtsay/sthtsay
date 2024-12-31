@@ -4,7 +4,8 @@
 
 <div align="center">
   <!-- Dynamic GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sthtsay&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sthtsay&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" />
+
   
   <!-- Dynamic Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sthtsay&layout=compact&langs_count=8&theme=dracula" height="150" alt="Top Languages" />

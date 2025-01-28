@@ -1,107 +1,32 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sthtsay&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=✨+Innovating+Through+Code;🤖+Automating+Excellence;🔐+Securing+Digital+Futures;🌍+Building+For+Scale" alt="Header Animation">
 </div>
-
-<h1 align="center">👨💻 Yohannes Mesfin</h1>
-<h3 align="center">Fullstack Developer | QA Engineer | IT Professional</h3>
 
 <div align="center">
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+  <a href="https://github.com/sthtsay">
+    <img src="https://github-profile-trophy.vercel.app/?username=sthtsay&theme=dracula&margin-w=15&no-frame=true&row=2&column=4" alt="Achievements">
+  </a>
 </div>
-
-###
-
-🔭 **Currently Working On:** Enhancing test automation frameworks & building scalable web applications  
-🌱 **Learning:** Advanced TypeScript patterns & cloud-native architectures  
-💬 **Ask Me About:** Software quality assurance, fullstack development, or IT infrastructure  
-📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/yohannesmesfin) | mesfiny711@gmail.com
-
-###
-
-<h2>🛠 Tech Stack</h2>
-
-#### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-#### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-#### **Testing & QA**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-###
-
-<h2>💼 Professional Experience</h2>
-
-#### **Quality Assurance Engineer** @ Forward Logistics Technologies _(2024 - Present)_
-- Implemented automated testing framework reducing regression testing time by 40%
-- Conducted security audits identifying 15+ critical vulnerabilities
-- Led CI/CD pipeline improvements achieving 98% test coverage
-
-#### **Mobile Application Tester** @ Ethiopian Overseas Employment Agencies Federation _(2023-2024)_
-- Managed testing for 3+ enterprise mobile applications with 500k+ users
-- Developed comprehensive test plans reducing production bugs by 35%
-- Trained 8 team members on automated testing best practices
-
-#### **Junior Software Developer** @ Addis Ababa University _(2021-2023)_
-- Contributed to university management system development using C#/.NET
-- Optimized database queries improving system performance by 25%
-- Implemented role-based access control for 10,000+ users
-
-###
-
-<h2>🎓 Education & Certifications</h2>
-- **BSc in Information Systems** - Addis Ababa University (2019-2023)
-- **Google IT Support Professional Certificate** - Coursera (2023)
-- **ISTQB Certified Tester Foundation Level** - In Progress
-
-###
-
-<h2>🚀 Featured Projects</h2>
-
-#### [Movie Ticket Booking System](https://github.com/sthtsay/movie-ticket-system)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-- Full-stack cinema management system handling 50+ concurrent users
-- Integrated payment gateway processing $5k+ in transactions
-
-#### [E-commerce Platform](https://github.com/sthtsay/ecommerce-platform)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- Scalable online shopping system with real-time inventory management
-- Implemented JWT authentication and Redis caching
-
-###
-
-<h2>📈 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sthtsay&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthtsay&layout=compact&theme=dracula" />
+  <img src="https://raw.githubusercontent.com/sthtsay/sthtsay/main/assets/banner.svg" width="800" alt="Code Journey Banner">
 </div>
 
 ###
 
-<h2>📫 Let's Connect</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/yohannesmesfin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sthtsay" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:mesfiny711@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<div align="center">
+  ```diff
+  +====================================================================+
+  |                    🛠️  T E C H N O L O G Y   S T A C K            |
+  +====================================================================+
+  ! Frontend: React • TypeScript • Redux • Next.js                     
+  ! Backend: Node.js • Python • .NET • Django                          
+  ! DevOps: Docker • AWS • GitHub Actions • Jenkins                    
+  ! QA: Selenium • Jest • Cypress • Postman                            
+  +--------------------------------------------------------------------+
 </div>
+<h2 align="center">🚀 Professional Odyssey</h2><table align="center"> <tr> <td width="300px"><img src="https://raw.githubusercontent.com/sthtsay/sthtsay/main/assets/qa_icon.png" width="50"></td> <td width="600px"> <h3>🥇 Senior QA Engineer</h3> <strong>Forward Logistics Technologies • 2024-Present</strong> <ul> <li>Architected test automation framework handling 5k+ daily executions</li> <li>Pioneered shift-left testing reducing bugs by 60% in production</li> <li>Mentored 15+ engineers in quality-first development practices</li> </ul> </td> </tr> <tr> <td><img src="https://raw.githubusercontent.com/sthtsay/sthtsay/main/assets/mobile_icon.png" width="50"></td> <td> <h3>📱 Lead Mobile Tester</h3> <strong>Ethiopian Employment Federation • 2023-2024</strong> <ul> <li>Orchestrated testing for 3M+ user financial mobile app</li> <li>Implemented performance testing suite reducing crashes by 75%</li> <li>Designed CI/CD pipeline for automated app store deployments</li> </ul> </td> </tr> </table>
+<h2 align="center">💻 Code Chronicles</h2><div align="center"> <a href="https://github.com/sthtsay/movie-ticket-system"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sthtsay&repo=movie-ticket-system&theme=dracula&show_owner=true" /> </a> <a href="https://github.com/sthtsay/ecommerce-platform"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sthtsay&repo=ecommerce-platform&theme=dracula&show_owner=true" /> </a> </div>
+<h2 align="center">📊 Development Analytics</h2><div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sthtsay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Stats"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sthtsay&theme=dracula" alt="Streak"> <img src="https://raw.githubusercontent.com/sthtsay/sthtsay/output/github-contribution-grid-snake.svg" alt="Contribution Snake"> </div>
+<h2 align="center">🌐 Digital Presence</h2><div align="center"> <a href="https://linkedin.com/in/yohannesmesfin"> <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://dev.to/sthtsay"> <img src="https://custom-icon-badges.demolab.com/badge/-Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> </a> <a href="mailto:mesfiny711@gmail.com"> <img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://leetcode.com/sthtsay"> <img src="https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=sthtsay&label=Profile+Views&color=8A2BE2&style=flat-square" alt="Visitor Counter"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/sthtsay/sthtsay/main/assets/footer_wave.svg" width="800" alt="Footer Wave"> <br> <sub>"Commit by commit, building Africa's digital future"</sub> </div> ```
